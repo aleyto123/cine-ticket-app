@@ -15,7 +15,9 @@
 ### 🔹 Instalación y configuración de Tailwind CSS:
 ![Imagen 1](docss/im2.png)
 
-### 🔹 Instalación de shadcn/ui y componentes
+### 🔹 Instalación de shadcn/ui y componentes:
 ![Imagen 1](docss/im3.png)
 
+### 🔹 Layout con Navbar usando shadcn/ui:
+![Imagen 1](docss/im4.png)
 
